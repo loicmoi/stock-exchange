@@ -1,2 +1,2 @@
 # stock-exchange
-stock-exchange
+Stock exchange (public)
